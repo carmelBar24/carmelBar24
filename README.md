@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **independent projects**
 
-- 🌱 I’m currently learning **Node js, C#**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **javascript**
 
