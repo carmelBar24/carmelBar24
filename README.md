@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Brain Boost**
 
-- 🌱 I’m currently learning **Dart**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **JS, Dart , Flutter**
+- 💬 Ask me about **JS, Dart , Flutter, React**
 
 - 📫 How to reach me **carmelbar9@gmail.com**
 
